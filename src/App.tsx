@@ -971,11 +971,11 @@ function App() {
           </div>
           <div>
             <Eyebrow>CODING PRACTICE</Eyebrow>
-            <Card title="Java 중심 알고리즘 학습" className="practice-card">
+            <Card title="Java/Python 알고리즘 학습" className="practice-card">
               <span className="practice-description">solve.ac 문제 풀이</span>
               <figure className="streak-evidence">
                 <img src={solveacStreak} alt="solve.ac 789일 연속 문제 풀이 기록 캡처" />
-                <figcaption>789일 연속 풀이 기록 (2026.10.01 캡처)</figcaption>
+                <figcaption>789일 연속 풀이 기록</figcaption>
               </figure>
             </Card>
             <Eyebrow>CERTIFICATIONS & AWARDS</Eyebrow>
